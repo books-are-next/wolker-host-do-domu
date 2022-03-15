@@ -1,0 +1,772 @@
+{
+  "author": "Jiří Wolker",
+  "contenttype": "poetry",
+  "identifier": "wolker-host-do-domu-a06fd43",
+  "languagecode": "cs",
+  "modified": "2022-03-15T14:34:25.901Z",
+  "publishershort": "mkp",
+  "title": "Host do domu",
+  "revision": "a06fd43",
+  "generatedAt": {
+    "date": "Tue Mar 15 2022 14:47:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647355678763
+  },
+  "documents": [
+    {
+      "title": "Host do domu",
+      "file": "section0005.html",
+      "words": 44,
+      "chars": 235,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I. Chlapec",
+              "id": "i-chlapec",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Pokora",
+                  "id": "pokora",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0006.html",
+      "words": 171,
+      "chars": 868,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0007.html",
+      "words": 110,
+      "chars": 608,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0008.html",
+      "words": 90,
+      "chars": 465,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0009.html",
+      "words": 81,
+      "chars": 428,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0010.html",
+      "words": 77,
+      "chars": 389,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0011.html",
+      "words": 67,
+      "chars": 344,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0012.html",
+      "words": 63,
+      "chars": 328,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0013.html",
+      "words": 54,
+      "chars": 285,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0014.html",
+      "words": 91,
+      "chars": 506,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0015.html",
+      "words": 99,
+      "chars": 520,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0016.html",
+      "words": 118,
+      "chars": 729,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0017.html",
+      "words": 82,
+      "chars": 470,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0018.html",
+      "words": 67,
+      "chars": 397,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "II. Ukřižované srdce",
+              "id": "ii-ukřižované-srdce",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Ukřižované srdce",
+                  "id": "ukřižované-srdce",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0019.html",
+      "words": 90,
+      "chars": 483,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0020.html",
+      "words": 156,
+      "chars": 892,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0021.html",
+      "words": 126,
+      "chars": 742,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0022.html",
+      "words": 138,
+      "chars": 760,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0023.html",
+      "words": 121,
+      "chars": 657,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0024.html",
+      "words": 141,
+      "chars": 767,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0025.html",
+      "words": 94,
+      "chars": 517,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0024.html",
+      "next": "section0026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0026.html",
+      "words": 100,
+      "chars": 552,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0025.html",
+      "next": "section0027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0027.html",
+      "words": 45,
+      "chars": 241,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0026.html",
+      "next": "section0028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0028.html",
+      "words": 185,
+      "chars": 1024,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 23,
+      "prev": "section0027.html",
+      "next": "section0029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "III. Host do domu",
+              "id": "iii-host-donbspdomu",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Host do domu",
+                  "id": "host-donbspdomu",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0029.html",
+      "words": 84,
+      "chars": 412,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 24,
+      "prev": "section0028.html",
+      "next": "section0030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0030.html",
+      "words": 89,
+      "chars": 459,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 25,
+      "prev": "section0029.html",
+      "next": "section0031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0031.html",
+      "words": 157,
+      "chars": 842,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 26,
+      "prev": "section0030.html",
+      "next": "section0032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0032.html",
+      "words": 95,
+      "chars": 557,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 27,
+      "prev": "section0031.html",
+      "next": "section0033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0033.html",
+      "words": 104,
+      "chars": 607,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 28,
+      "prev": "section0032.html",
+      "next": "section0034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0034.html",
+      "words": 60,
+      "chars": 330,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 29,
+      "prev": "section0033.html",
+      "next": "section0035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0035.html",
+      "words": 124,
+      "chars": 653,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "section0034.html",
+      "next": "section0036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0036.html",
+      "words": 67,
+      "chars": 380,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 31,
+      "prev": "section0035.html",
+      "next": "section0037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Host do domu",
+      "file": "section0037.html",
+      "words": 1445,
+      "chars": 8162,
+      "ideas": 147,
+      "role": "chapter",
+      "order": 32,
+      "prev": "section0036.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "IV. Svatý kopeček",
+              "id": "iv-svatý-kopeček",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Svatý kopeček",
+                  "id": "svatý-kopeček",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Host do domu",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 992,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0037.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4783,
+      "chars": 26627,
+      "ideas": 851
+    },
+    "chapters": {
+      "words": 4635,
+      "chars": 25609,
+      "ideas": 832
+    }
+  }
+}
