@@ -1,0 +1,350 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Host do domu",
+    "identifier": "20a9de4e-b866-4269-b0c7-46b18753f82e",
+    "author": "Jiří Wolker",
+    "language": "cs",
+    "modified": "2022-03-15T14:34:25.901Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "OBSAH",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "I. Chlapec",
+      "children": [
+        {
+          "title": "Pokora",
+          "href": "OEBPS/Text/Section0005.xhtml#heading_id_3"
+        },
+        {
+          "title": "Žebráci",
+          "href": "OEBPS/Text/Section0006.xhtml"
+        },
+        {
+          "title": "Svatodušní svátky",
+          "href": "OEBPS/Text/Section0007.xhtml"
+        },
+        {
+          "title": "Kamna",
+          "href": "OEBPS/Text/Section0008.xhtml"
+        },
+        {
+          "title": "Poštovní schránka",
+          "href": "OEBPS/Text/Section0009.xhtml"
+        },
+        {
+          "title": "Žně",
+          "href": "OEBPS/Text/Section0010.xhtml"
+        },
+        {
+          "title": "Žák",
+          "href": "OEBPS/Text/Section0011.xhtml"
+        },
+        {
+          "title": "K svátku mé milé",
+          "href": "OEBPS/Text/Section0012.xhtml"
+        },
+        {
+          "title": "Háj",
+          "href": "OEBPS/Text/Section0013.xhtml"
+        },
+        {
+          "title": "Hoj",
+          "href": "OEBPS/Text/Section0014.xhtml"
+        },
+        {
+          "title": "Vzdálená milá",
+          "href": "OEBPS/Text/Section0015.xhtml"
+        },
+        {
+          "title": "Okno",
+          "href": "OEBPS/Text/Section0016.xhtml"
+        },
+        {
+          "title": "V parku před polednem",
+          "href": "OEBPS/Text/Section0017.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "II. Ukřižované srdce",
+      "children": [
+        {
+          "title": "Ukřižované srdce",
+          "href": "OEBPS/Text/Section0018.xhtml#heading_id_3"
+        },
+        {
+          "title": "Pokojík v hotelu",
+          "href": "OEBPS/Text/Section0019.xhtml"
+        },
+        {
+          "title": "Rekruti",
+          "href": "OEBPS/Text/Section0020.xhtml"
+        },
+        {
+          "title": "Dláždění",
+          "href": "OEBPS/Text/Section0021.xhtml"
+        },
+        {
+          "title": "Ze soboty na neděli",
+          "href": "OEBPS/Text/Section0022.xhtml"
+        },
+        {
+          "title": "Vězeň",
+          "href": "OEBPS/Text/Section0023.xhtml"
+        },
+        {
+          "title": "Návrat",
+          "href": "OEBPS/Text/Section0024.xhtml"
+        },
+        {
+          "title": "Zamilovaný",
+          "href": "OEBPS/Text/Section0025.xhtml"
+        },
+        {
+          "title": "Nemocná milá",
+          "href": "OEBPS/Text/Section0026.xhtml"
+        },
+        {
+          "title": "Básníku, odejdi!",
+          "href": "OEBPS/Text/Section0027.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "III. Host do domu",
+      "children": [
+        {
+          "title": "Host do domu",
+          "href": "OEBPS/Text/Section0028.xhtml#heading_id_3"
+        },
+        {
+          "title": "Poutníci",
+          "href": "OEBPS/Text/Section0029.xhtml"
+        },
+        {
+          "title": "Smrt",
+          "href": "OEBPS/Text/Section0030.xhtml"
+        },
+        {
+          "title": "Noční déšť",
+          "href": "OEBPS/Text/Section0031.xhtml"
+        },
+        {
+          "title": "Na svatého Mikuláše",
+          "href": "OEBPS/Text/Section0032.xhtml"
+        },
+        {
+          "title": "Koledy",
+          "href": "OEBPS/Text/Section0033.xhtml"
+        },
+        {
+          "title": "Věci",
+          "href": "OEBPS/Text/Section0034.xhtml"
+        },
+        {
+          "title": "Hřbitov",
+          "href": "OEBPS/Text/Section0035.xhtml"
+        },
+        {
+          "title": "Dneše",
+          "href": "OEBPS/Text/Section0036.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "title": "IV. Svatý kopeček",
+      "children": [
+        {
+          "title": "Svatý kopeček",
+          "href": "OEBPS/Text/Section0037.xhtml#heading_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/Section0037.xhtml"
+    }
+  ]
+}
