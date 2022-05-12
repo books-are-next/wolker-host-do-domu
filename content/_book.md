@@ -12,6 +12,7 @@ meta:
   modified: '2022-03-15T14:34:25.901Z'
   publisherShort: mkp
 readingOrder:
+  - promo.html
   - section0005.html
   - section0006.html
   - section0007.html
