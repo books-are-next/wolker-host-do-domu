@@ -1,15 +1,52 @@
 {
-  "author": "Jiří Wolker",
-  "contenttype": "poetry",
-  "identifier": "wolker-host-do-domu-a06fd43",
-  "languagecode": "cs",
-  "modified": "2022-03-15T14:34:25.901Z",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Host do domu",
-  "revision": "a06fd43",
+  "author": "Jiří Wolker",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "wolker-host-do-domu-421d601",
+  "revision": "421d601",
+  "readingOrder": [
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "section0011.html",
+    "section0012.html",
+    "section0013.html",
+    "section0014.html",
+    "section0015.html",
+    "section0016.html",
+    "section0017.html",
+    "section0018.html",
+    "section0019.html",
+    "section0020.html",
+    "section0021.html",
+    "section0022.html",
+    "section0023.html",
+    "section0024.html",
+    "section0025.html",
+    "section0026.html",
+    "section0027.html",
+    "section0028.html",
+    "section0029.html",
+    "section0030.html",
+    "section0031.html",
+    "section0032.html",
+    "section0033.html",
+    "section0034.html",
+    "section0035.html",
+    "section0036.html",
+    "section0037.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 15 2022 14:47:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647355678763
+    "date": "Thu May 12 2022 10:40:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352016851
   },
   "documents": [
     {
@@ -737,11 +774,11 @@
       ]
     },
     {
-      "title": "Tiráž • Host do domu",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 992,
-      "ideas": 16,
+      "words": 123,
+      "chars": 837,
+      "ideas": 13,
       "role": "colophon",
       "order": null,
       "prev": "section0037.html",
@@ -759,9 +796,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4783,
-      "chars": 26627,
-      "ideas": 851
+      "words": 4764,
+      "chars": 26472,
+      "ideas": 848
     },
     "chapters": {
       "words": 4635,

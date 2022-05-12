@@ -527,15 +527,13 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
       "title": "Host do domu",
       "identifier": "20a9de4e-b866-4269-b0c7-46b18753f82e",
-      "author": "Jiří Wolker",
-      "modified": "2022-03-15T14:46:50.258Z"
+      "author": "Jiří Wolker"
     },
     "chapters": [
       {
@@ -800,6 +798,6 @@
       "user": "books-are-next",
       "repo": "wolker-host-do-domu"
     },
-    "generatedAt": 1647355610676
+    "generatedAt": 1652351481465
   }
 }
