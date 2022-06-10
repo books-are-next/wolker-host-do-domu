@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Okno
 
@@ -57,3 +59,5 @@ Oči své položíš doprostřed světnice:
 dáreček z cesty —
 
 — album světa.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Koledy
 
@@ -47,3 +49,5 @@ chlebíčka na černé míse přineseného,
 protože jsou nejblíže trumpet tvých přesmutných,
 
 jako je: mlha, bláto a sníh.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Poštovní schránka
 
@@ -35,3 +37,5 @@ Když na ně psaní doletí,
 narostou na nich plody
 
 sladké nebo trpké.
+
+</section>

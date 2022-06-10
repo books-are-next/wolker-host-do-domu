@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## I. Chlapec
 
@@ -23,3 +25,5 @@ nebe dlaň o tebe opřelo si
 kapičkou rosy,
 
 aby nespadlo.“
+
+</section>

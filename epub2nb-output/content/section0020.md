@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Rekruti
 
@@ -67,3 +69,5 @@ Dříve než se rozední,
 počneme pod vaším srdcem radostné pachole,
 
 nový život.
+
+</section>

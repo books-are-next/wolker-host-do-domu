@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Svatodušní svátky
 
@@ -45,3 +47,5 @@ neřekly nic,
 za sebou nechaly
 
 jen svět spoutaný okovy černých kolejnic.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Žně
 
@@ -45,3 +47,5 @@ klas v řadě,
 písmeno,
 
 vykřičník!
+
+</section>

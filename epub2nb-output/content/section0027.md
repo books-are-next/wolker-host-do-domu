@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Básníku, odejdi!
 
@@ -19,3 +21,5 @@ jemuž by scházeli básníci,
 protože všichni lidé
 
 by dovedli plakat a zpívat.
+
+</section>

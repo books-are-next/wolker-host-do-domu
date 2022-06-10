@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Vzdálená milá
 
@@ -39,3 +41,5 @@ myslím, že se jim nepodaří
 dojít až tam…
 
 Musím jít sám.
+
+</section>

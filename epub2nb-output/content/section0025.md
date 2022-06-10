@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Zamilovaný
 
@@ -47,3 +49,5 @@ jako dvě zlatnické výkladní skříně,
 křičící
 
 na žebráckou a loupežnickou ulici.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Dláždění
 
@@ -55,3 +57,5 @@ Lán stotisíc rukou.
 Klasy.
 
 Obilí.
+
+</section>

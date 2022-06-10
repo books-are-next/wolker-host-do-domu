@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Žebráci
 
@@ -63,3 +65,5 @@ s čepicí v rukou, slunce nad hlavou.
 „O lásku prosíme, lidé boží, —
 
 — otevřte srdce!“
+
+</section>

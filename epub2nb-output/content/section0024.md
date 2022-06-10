@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Návrat
 
@@ -73,3 +75,5 @@ musím si vzpomnět i oněch,
 kteří jej nespatřili,
 
 protože očima večeři zaplatili.
+
+</section>

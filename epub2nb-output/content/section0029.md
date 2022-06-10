@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Poutníci
 
@@ -37,3 +39,5 @@ V srdci dary, v rukou srpy,
 v očích anděly a chrpy,
 
 na žně jdeme do Betléma.
+
+</section>
