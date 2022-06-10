@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Pokojík v hotelu
 
@@ -35,3 +37,5 @@ přijít a zadarmo usmát se na něho,
 aby i nejsmutnější věci v tom pokoji viděly,
 
 že přec není všechno tak, jako si myslely.
+
+</section>

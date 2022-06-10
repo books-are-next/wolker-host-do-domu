@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Nemocná milá
 
@@ -41,3 +43,5 @@ Ale dnes srdcem svým
 ani jediného hladového nenasytím.
 
 Odpusť mi, můj milý, hříchy moje!
+
+</section>

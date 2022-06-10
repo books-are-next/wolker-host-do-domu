@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Vězeň
 
@@ -53,3 +55,5 @@ Slunce,
 přijď sem s paprsky všemi!
 
 Tento vězeň je sám jako semeno v zemi.
+
+</section>

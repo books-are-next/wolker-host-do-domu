@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## III. Host do domu
 
@@ -77,3 +79,5 @@ otvírají.
 Host do domu —
 
 — a ještě někdo.
+
+</section>

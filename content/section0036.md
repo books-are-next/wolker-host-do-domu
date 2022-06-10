@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Dneše
 
@@ -27,3 +29,5 @@ co potom se rozešli po světě do dálí
 a každému radostně říkali,
 
 že Pán Bůh se jim zjevil jako člověk.
+
+</section>

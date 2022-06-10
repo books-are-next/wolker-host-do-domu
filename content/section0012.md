@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### K svátku mé milé
 
@@ -25,3 +27,5 @@ na nebe první hvězda vyletí.
 Nesu vám: básničku, kvítko a objetí,
 
 lásku ve třech osobách.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Háj
 
@@ -21,3 +23,5 @@ modlit se čistýma očima,
 a až se zšeří,
 
 Pán Bůh bude chodit k nám na večeři.
+
+</section>

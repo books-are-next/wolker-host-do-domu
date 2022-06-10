@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Žák
 
@@ -37,3 +39,5 @@ do náruče,
 do srdce jej zabal,
 
 ať se nepotluče!“
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Hřbitov
 
@@ -51,3 +53,5 @@ a říkají:
 „Na této zemi není smrti —
 
 jsou jenom staří a mladí.“
+
+</section>

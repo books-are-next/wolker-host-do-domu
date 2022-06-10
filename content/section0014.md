@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Hoj
 
@@ -37,3 +39,5 @@ sestup se stěny
 a potěš chlapce,
 
 který poslechl lesní rohy, chrty a srdce.“
+
+</section>

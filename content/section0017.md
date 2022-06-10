@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### V parku před polednem
 
@@ -31,3 +33,5 @@ Stanu se mužem
 a vojákem.
 
 Voják modlí se bodákem.
+
+</section>

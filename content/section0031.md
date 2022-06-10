@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Noční déšť
 
@@ -65,3 +67,5 @@ a říkají do deště věci smutné a smutnější,
 aby — až se dveře otevrou, —
 
 radost byla ještě větší.
+
+</section>

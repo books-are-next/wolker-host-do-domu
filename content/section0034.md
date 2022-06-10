@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Věci
 
@@ -29,3 +31,5 @@ tolik by chtěly trochu si porozprávět!
 Proto miluji věci
 
 a také milují celý svět.
+
+</section>

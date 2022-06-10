@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## II. Ukřižované srdce
 
@@ -39,3 +41,5 @@ aby všichni nevěřící
 železným životem rozbití
 
 mohli v ni prsty vložiti.“
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Smrt
 
@@ -49,3 +51,5 @@ muž a žena.
 To už ani ve snu není,
 
 to je spíše probuzení.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Na svatého Mikuláše
 
@@ -39,3 +41,5 @@ vlož laskavě červená jablka a zlaté ořechy
 do tohoto vlaku Praha-Bohumín
 
 a do vlaků celého světa.
+
+</section>

@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Kamna
 
@@ -35,3 +37,5 @@ na stůl postavily čerstvé a vonící:
 „Vezměte z našich rukou, moji nejmilejší,
 
 kytici!“
+
+</section>

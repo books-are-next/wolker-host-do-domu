@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ## IV. Svatý kopeček
 
@@ -295,3 +297,5 @@ korouhvi této krajiny tiché a svěcené,
 spravedlivou sílu, dětské oči a jazyky ohnivé dej nám všem,
 
 ať to, v co věříme dnes, též zítra provedem!
+
+</section>

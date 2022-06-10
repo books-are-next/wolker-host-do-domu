@@ -1,6 +1,8 @@
 ---
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 ### Ze soboty na neděli
 
@@ -59,3 +61,5 @@ ve jménu Syna říká jim: Bratře!
 a ve jménu Ducha svatého tiše je pohladí po čele
 
 řka: „Ještě dnes ráno bude neděle.“
+
+</section>
