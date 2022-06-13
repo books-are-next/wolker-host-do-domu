@@ -12,6 +12,10 @@ Stanu se menším a ještě menším,
 
 až budu nejmenším na celém světě.
 
+</section>
+
+<section>
+
 Po ránu, na louce, v létě
 
 po kvítku vztáhnu se nejmenším.
