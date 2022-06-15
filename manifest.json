@@ -6,8 +6,8 @@
   "author": "Jiří Wolker",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-host-do-domu-939ff10",
-  "revision": "939ff10",
+  "identifier": "wolker-host-do-domu-ddcc716",
+  "revision": "ddcc716",
   "readingOrder": [
     "promo.html",
     "section0005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:59:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157594573
+    "date": "Wed Jun 15 2022 04:49:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655268544090
   },
   "documents": [
     {
@@ -789,9 +789,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 123,
-      "chars": 837,
-      "ideas": 13,
+      "words": 151,
+      "chars": 1061,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0037.html",
@@ -809,9 +809,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4764,
-      "chars": 26472,
-      "ideas": 848
+      "words": 4792,
+      "chars": 26696,
+      "ideas": 849
     },
     "chapters": {
       "words": 4635,
