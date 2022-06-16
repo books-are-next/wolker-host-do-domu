@@ -11,6 +11,7 @@ meta:
   author: Jiří Wolker
   modified: '2022-03-15T14:34:25.901Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - section0005.html

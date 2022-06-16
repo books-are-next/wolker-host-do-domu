@@ -4,10 +4,11 @@
   },
   "title": "Host do domu",
   "author": "Jiří Wolker",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-host-do-domu-8a4580b",
-  "revision": "8a4580b",
+  "identifier": "wolker-host-do-domu-ac2105a",
+  "revision": "ac2105a",
   "readingOrder": [
     "promo.html",
     "section0005.html",
@@ -46,8 +47,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 06:00:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272857356
+    "date": "Thu Jun 16 2022 07:36:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364960467
   },
   "documents": [
     {
@@ -809,9 +810,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4792,
-      "chars": 26696,
-      "ideas": 849
+      "words": 4793,
+      "chars": 26702,
+      "ideas": 850
     },
     "chapters": {
       "words": 4635,
