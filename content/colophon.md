@@ -6,7 +6,7 @@ Jiří Wolker
 Host do domu  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 16. 6. 2022.
+V MKP 2. elektronické vydání z 23. 6. 2022.
 
 ***
 
@@ -24,7 +24,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-WOLKER, Jiří. Host do domu \[online\]. V MKP 2. elektronické vydání z 16. 6. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 16. 6. 2022]. Dostupné z <[books-are-next.github.io/wolker-host-do-domu](https://books-are-next.github.io/wolker-host-do-domu/)>.
+WOLKER, Jiří. Host do domu \[online\]. V MKP 2. elektronické vydání z 23. 6. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 23. 6. 2022]. Dostupné z <[books-are-next.github.io/wolker-host-do-domu](https://books-are-next.github.io/wolker-host-do-domu/)>.
 
 ***
 
