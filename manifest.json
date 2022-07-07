@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-host-do-domu-7be6c99",
-  "revision": "7be6c99",
+  "identifier": "wolker-host-do-domu-8a8fdde",
+  "revision": "8a8fdde",
   "readingOrder": [
     "promo.html",
     "section0005.html",
@@ -44,11 +44,11 @@
     "section0035.html",
     "section0036.html",
     "section0037.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980403132
+    "date": "Thu Jul 07 2022 08:43:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183405396
   },
   "documents": [
     {
@@ -760,7 +760,7 @@
       "role": "chapter",
       "order": 33,
       "prev": "section0036.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -789,11 +789,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 151,
-      "chars": 1061,
+      "chars": 1058,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0037.html",
       "next": null,
@@ -810,8 +810,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4793,
-      "chars": 26702,
+      "words": 4792,
+      "chars": 26704,
       "ideas": 850
     },
     "chapters": {
