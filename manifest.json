@@ -7,8 +7,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-host-do-domu-fd0708b",
-  "revision": "fd0708b",
+  "identifier": "wolker-host-do-domu-075a84a",
+  "revision": "075a84a",
   "readingOrder": [
     "promo.html",
     "section0005.html",
@@ -47,8 +47,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:09:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151779700
+    "date": "Mon Oct 10 2022 16:01:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417715536
   },
   "documents": [
     {
@@ -791,7 +791,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 149,
-      "chars": 1061,
+      "chars": 1064,
       "ideas": 12,
       "role": "about",
       "order": null,
@@ -811,7 +811,7 @@
   "totals": {
     "all": {
       "words": 4791,
-      "chars": 26702,
+      "chars": 26705,
       "ideas": 848
     },
     "chapters": {
